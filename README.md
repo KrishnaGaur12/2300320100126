@@ -39,13 +39,13 @@ npx ts-node src/priority.ts
 *(Note: Replace the placeholder links below with the actual paths to your screenshots once you add them to the repository)*
 
 ### Frontend Views
-- [All Notifications - Desktop View](./screenshots/fe_all_desktop.png)
-- [All Notifications - Mobile View](./screenshots/fe_all_mobile.png)
-- [Priority Inbox - Desktop View](./screenshots/fe_priority_desktop.png)
-- [Priority Inbox - Mobile View](./screenshots/fe_priority_mobile.png)
+![All Notifications - Desktop View](./screenshots/fe_all_desktop.png)
+![All Notifications - Mobile View](./screenshots/fe_all_mobile.png)
+![Priority Inbox - Desktop View](./screenshots/fe_priority_desktop.png)
+![Priority Inbox - Mobile View](./screenshots/fe_priority_mobile.png)
 
 ### Backend API Responses
-- [GET /api/notifications](./screenshots/be_get_all.png)
-- [GET /api/notifications?notification_type=Placement](./screenshots/be_get_filtered.png)
-- [GET /api/notifications/priority?n=10](./screenshots/be_get_priority.png)
-- [Terminal Output: Stage 6 Priority Script](./screenshots/stage6_terminal.png)
+![GET /api/notifications](./screenshots/be_get_all.png)
+![GET /api/notifications?notification_type=Placement](./screenshots/be_get_filtered.png)
+![GET /api/notifications/priority?n=10](./screenshots/be_get_priority.png)
+![Terminal Output: Stage 6 Priority Script](./screenshots/stage6_terminal.png)
